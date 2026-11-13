@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="#DCEBFF">
+
+    <ImageView
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:src="@mipmap/ic_launcher"
+        android:contentDescription="Ícone do aplicativo" />
+
+    <TextView
+        android:id="@+id/widget_texto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Minha Ideia"
+        android:textColor="#17365D"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Meu primeiro Home Screen Widget!"
+        android:textColor="#333333"
+        android:textSize="12sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp" />
+
+</LinearLayout>
