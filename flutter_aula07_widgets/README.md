@@ -78,19 +78,19 @@ Ao tocar no botão, o app exibe o `MeuInfoWidget` e, no Android, abre o pedido d
 
 ### Ícone do aplicativo
 
-![Ícone do aplicativo](assets/screenshots/icone.png)
+![Ícone do aplicativo](assets/icone.png)
 
 ### Tela inicial
 
 Tela principal do aplicativo, com a receita do dia e a lista de receitas.
 
-![Tela inicial](assets/screenshots/tela.png)
+![Tela inicial](assets/tela.png)
 
 ### Widget na tela inicial do dispositivo
 
 Home Screen Widget em ação, exibindo a foto e o nome de uma receita aleatória.
 
-![Widget](assets/screenshots/widget.png)
+![Widget](assets/widget.png)
 
 ---
 
